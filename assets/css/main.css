@@ -1659,3 +1659,11 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+		
+		
+		
+		.GFG {
+    background-color:#2e047b;
+    color: #222222;
+    border-color: #2e047b;
+}
